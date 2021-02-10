@@ -10,9 +10,7 @@ Just install the starter, add your content, and there you go!
 
 <a href="#sections">Sections</a> · <a href="#features">Features</a> · <a href="#how-to-start">How to Start</a> · <a href="#edit-content">Edit Content</a> · <a href="#edit-theme">Edit Theme</a> · <a href="#edit-page-structure">Edit Page Structure</a> · <a href="#feedback">Feedback</a>
 
-<a href="https://gatsby-starter-portfolio-minimal.netlify.app/" target="_blank"><strong>>> LIVE DEMO</strong></a>
 
-<a href="https://konstantin.digital/" target="_blank"><strong>>> LIVE DEMO (with Splash Screen)</strong></a>
 
 **New Features:** 🌛 Dark Mode · 🪟 Splash Screen
 
@@ -150,23 +148,3 @@ Each section (besides the Articles section) exists of an imported React componen
 ### Add custom sections
 
 If you want to add your own custom sections, there is a section template you can use. You can find it in the following directory: `src/components/templates`
-
----
-
-## Feedback
-
-Designing and building a portfolio from scratch can be tough. To inspire you and provide you a foundation to build upon, I've decided to publish [my personal website](https://konstantin.digital) as a Gatsby Starter. This boilerplate project should motivate you to build your own awesome portfolio with Gatsby.
-
-I always appreciate feedback, so share your thoughts and suggestions with me: [mail@konstantin.digital](mailto:mail@konstantin.digital)
-
-If you find any bugs or have feature suggestions, create a new issue or pull request 🙏
-
-Thanks a lot for using this starter! 💪
-
----
-
-## License
-
-Distributed under the [MIT](http://showalicense.com/?fullname=Konstantin+M%C3%BCnster&year=2019#license-mit) license.
-
-See `LICENSE` for more information.
